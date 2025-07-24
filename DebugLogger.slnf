@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\AspNetCore.sln",
+    "projects": [
+	  "src\\DebugLogger\\src\\DebugLogger.csproj"
+    ]
+  }
+}
